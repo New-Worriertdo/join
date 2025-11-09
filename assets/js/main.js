@@ -201,8 +201,8 @@
     bd.innerHTML = (
       '<div class="pp-modal" role="dialog" aria-modal="true" aria-labelledby="ppTitle" aria-describedby="ppDesc">'
       + '<header><h3 id="ppTitle">Privacy Notice</h3></header>'
-      + '<div id="ppDesc"><p>We use a minimal amount of local storage for basic preferences (like dark mode) and form demos. No data is transmitted to a server from this site.</p>'
-      + '<p>You can read more details on the Privacy page and see the Terms for general conditions of use.</p></div>'
+      + '<div id="ppDesc"><p>We use cookies to improve your experience. By using our website you are accepting our Cookie Policy.</p>'
+      + '<p>Welcome To Betwhale.</p></div>'
       + '<div class="pp-actions">'
       + '<button type="button" class="pp-btn" id="ppClose">Close</button>'
       + '<button type="button" class="pp-btn pp-btn--primary" id="ppAccept">Accept</button>'
